@@ -14,7 +14,6 @@ body {
   }
   
   ul li {
-    /* margin-right: 25px; */
     margin-left: 25px;
   }
   
@@ -30,7 +29,7 @@ body {
   /* Hyperlink Styles */
   a {
     color: #CC1C0D;
-    text-decoration: none; /* Removed underline as per expected code */
+    text-decoration: underline
   }
   
   /* Solutions Page Styles */
