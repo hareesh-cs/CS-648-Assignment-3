@@ -1,6 +1,6 @@
 # _**Assignment 3: Vecta Corp Website**_
 
-![Logo](https://github.com/hareesh-cs/CS-648-Assignment-3/blob/main/part%202/images/header.gif?raw=true)
+![Logo](https://github.com/hareesh-cs/CS-648-Assignment-3/blob/main/Part%202/images/header.gif?raw=true)
 
 ## Overview
 
